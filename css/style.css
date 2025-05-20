@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+
+}
+form{
+    width: 250px;
+    margin-left: 600px;
+    background-color: blanchedalmond;
+}
+input{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+}
+button{
+    width: 169px;
+    background-color: rgb(94, 59, 139);
+    color: azure;
+}
